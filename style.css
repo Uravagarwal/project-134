@@ -1,0 +1,31 @@
+body
+{
+background-size: cover;
+}
+
+.object
+{
+width: 100%;
+margin-top: 0;
+font-size: 170%;
+}
+
+.fotter
+{
+    position: fixed;
+    bottom: 0;
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    color: blue;
+    font-size: 170%;
+}
+
+canvas
+{
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 5px grey;
+}
+
